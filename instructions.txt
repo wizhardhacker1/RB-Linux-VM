@@ -1,0 +1,11 @@
+Unzip RBlinuxV1.0.zip
+Open VM Workstation or others
+	https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
+	https://www.vmware.com/products/workstation-player.html
+	https://help.okta.com/oag/en-us/Content/Topics/Access-Gateway/deploy-ovb.htm
+
+Boot up and login
+
+
+
+	
